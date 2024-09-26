@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Rayyan Aamir"
+  favicon: images/cafe.png
+  navbar:
+    background: primary
+    foreground: secondary
+    logo: images/cafe.png
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About Me
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
