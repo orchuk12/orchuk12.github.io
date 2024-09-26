@@ -1,11 +1,37 @@
 ---
-title: "Rayyna Aamir"
+title: "Rayyan Aamir Shekhani"
+image: images/ray-am.jpg
+about:
+    id: hero-heading
+    template: trestles
+    image-shape: round
+    links:
+        - icon: linkedin
+          text: LinkedIn
+          href: https://www.linkedin.com/in/rayyan-shekhani/
+        - icon: github
+          text: GitHub
+          href: https://github.com/orchuk12
+engine: knitr
+format:
+    html:
+        page-layout: full
 ---
 
-This is a Quarto website.
+::: {#hero-heading}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a current student at Monash University and I'm currently pursuing my Master of Business Analytics. I strive in taking the lead in projects and being the glue that sticks the team together, paired with my eager and comforting communication skills, I often find myself networking and enjoying the company of all my peers. 
 
-```{r}
-1 + 1
-```
+I have an extensive background in R-coding with nearly 4 years of experience in academia which I am able to combine along with several other technical skills such as dashboarding using Power Bi, Tableau, and RShiny.  
+
+My personal areas of interest are:
+
+1) Energy, water, infrastructure
+2) Healthcare data
+3) Education sector
+
+:::
+
+
+
+

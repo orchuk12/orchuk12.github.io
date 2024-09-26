@@ -12,9 +12,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About Me
-
+      - about.qmd
+    right:
+        - icon: linkedin
+          href: https://www.linkedin.com/in/rayyan-shekhani/
+        - icon: github
+          href: https://github.com/orchuk12
 format:
   html:
     theme: cosmo
