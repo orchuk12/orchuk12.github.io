@@ -3,8 +3,8 @@ title: "Rayyan Aamir Shekhani"
 image: images/ray-am.jpg
 about:
     id: hero-heading
-    template: trestles
-    image-shape: round
+    template: solana
+    image-shape: rounded
     links:
         - icon: linkedin
           text: LinkedIn
@@ -20,15 +20,19 @@ format:
 
 ::: {#hero-heading}
 
-I am a current student at Monash University and I'm currently pursuing my Master of Business Analytics. I strive in taking the lead in projects and being the glue that sticks the team together, paired with my eager and comforting communication skills, I often find myself networking and enjoying the company of all my peers. 
+## About
 
-I have an extensive background in R-coding with nearly 4 years of experience in academia which I am able to combine along with several other technical skills such as dashboarding using Power Bi, Tableau, and RShiny.  
+<div id="about-me">
+I’m currently pursuing my Master of Business Analytics at Monash University, and I thrive in leadership roles, often becoming the glue that keeps the team cohesive and motivated. With my dynamic communication skills and a knack for building strong connections, I naturally find myself networking and creating meaningful relationships with peers and colleagues alike.
 
-My personal areas of interest are:
+I bring nearly four years of R-coding experience, blending it seamlessly with other technical proficiencies like dashboarding in Power BI, Tableau, and RShiny. My passion lies in harnessing data to tackle big challenges, particularly in areas that ignites my curiosity and drive, like: 
 
-1) Energy, water, infrastructure
-2) Healthcare data
-3) Education sector
+- Energy, water, infrastructure
+- Healthcare
+- Education and academia 
+
+I'm always excited to connect and collaborate on innovative projects that make a real-world impact! Please get in touch through my contact details below.
+</div>
 
 :::
 

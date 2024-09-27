@@ -12,7 +12,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: cv.qmd
+        text: CV
+      - href: projects.qmd
+        text: Projects
     right:
         - icon: linkedin
           href: https://www.linkedin.com/in/rayyan-shekhani/
@@ -20,7 +23,7 @@ website:
           href: https://github.com/orchuk12
 format:
   html:
-    theme: cosmo
+    theme: custom.scss
     css: styles.css
     toc: true
 

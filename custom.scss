@@ -1,0 +1,60 @@
+/*-- scss:defaults --*/
+$white: #fff !default;
+$gray-100: #f8f9fa !default;
+$gray-200: #ddd !default;
+$gray-300: #ccc !default;
+$gray-400: #bbb !default;
+$gray-500: #adb5bd !default;
+$gray-600: #777 !default;
+$gray-700: #444 !default;
+$gray-800: #373a3c !default;
+$gray-900: #212529 !default;
+$black: #000 !default;
+
+$blue: #007bff !default;
+$indigo: #6610f2 !default;
+$purple: #9b479f !default;
+$pink: #e83e8c !default;
+$red: #d9230f !default;
+$orange: #d9831f !default;
+$yellow: #ffc107 !default;
+$green: #469408 !default;
+$teal: #20c997 !default;
+$cyan: #029acf !default;
+
+$primary: #084469 !default;
+$secondary: $white !default;
+$secondary-blue: #054B73 !default;
+$primary-brown: #552A21 !default;
+$secondary-brown: #693A2E !default;
+$light-blue: #A7C6D1;
+
+/*-- scss:rules --*/
+.nav-footer {
+    align-items: left;
+    text-align: left;
+}
+
+.nav-footer-right {
+    text-align: right;
+}
+
+.table.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    color: $primary;
+}
+
+h2,
+h3,
+h4 {
+    color: $secondary-blue;
+}
+
+#about-me {
+  text-align: justify;
+  padding: 10px;
+}
