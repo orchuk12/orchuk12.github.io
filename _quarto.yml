@@ -3,12 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: ""
-  favicon: images/cafe.png
+  title: "Rayyan Aamir Shekhani"
+  favicon: images/logo_1.png
   navbar:
     background: primary
     foreground: secondary
-    logo: images/cafe.png
+    logo: images/logo_1.png
     left:
       - href: index.qmd
         text: Home
