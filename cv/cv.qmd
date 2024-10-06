@@ -1,5 +1,9 @@
 ---
 title: "Curriculum Vitae"
+format: 
+  html:
+    page-layout: full
+css: ../styles.css
 ---
 
 ## Education 
@@ -137,3 +141,9 @@ title: "Curriculum Vitae"
 - Take leadership in logistics handling of upcoming events whilst working closely with the Treasurer and President of the faculty to discuss budgets and other necessary details.
 - Conducting analysis between participation rates and event outcomes to utilize budgets and tactics efficiently to maximize output.
 - Initiating event plans, executing, and leadership to ensure high-participation rates between host and attendee. 
+
+## Download
+
+[Download my CV](rayyan-resume.pdf){target="_blank"}
+
+

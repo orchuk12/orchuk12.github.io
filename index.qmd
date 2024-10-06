@@ -18,7 +18,6 @@ format:
         page-layout: full
 ---
 
-::: {#hero-heading}
 
 ## About
 
@@ -34,8 +33,26 @@ I bring nearly four years of R-coding experience, blending it seamlessly with ot
 I'm always excited to connect and collaborate on innovative projects that make a real-world impact! Please get in touch through my contact details below.
 </div>
 
-:::
 
+## Contact
 
+```{r}
+#| echo: false
 
+library(gt)
+
+tibble::tribble(
+  ~icon, ~text,
+  "<i class='bi bi-github'></i>", "[Rayyan Aamir](https://github.com/orchuk12)",
+  "<i class='bi bi-envelope'></i>", "[shekhani.rayyan@gmail.com](mailto:shekhani.rayyan@gmail.com)",
+  "<i class='bi bi-telephone-fill'></i>", "+61 449 094 028") %>%
+  gt() %>%
+  fmt_markdown() %>%
+  tab_options(column_labels.hidden = TRUE) %>%
+  cols_width(
+    icon ~ pct(15),
+    text ~ pct(90)
+  )
+
+```
 

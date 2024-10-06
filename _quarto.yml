@@ -12,9 +12,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: cv.qmd
+      - href: cv/cv.qmd
         text: CV
-      - href: projects.qmd
+      - href: projects/projects.qmd
         text: Projects
     right:
         - icon: linkedin
