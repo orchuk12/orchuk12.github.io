@@ -124,5 +124,54 @@
     "title": "Rayyan Aamir Shekhani",
     "section": "Contact",
     "text": "Contact\n\n\n\n\n\n\n\n\n\n\n\n\n\nRayyan Aamir\n\n\n\nshekhani.rayyan@gmail.com\n\n\n\n+61 449 094 028"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "My projects and the respective links to their repositories will be inserted here."
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Master of Business Analytics\n\n\n2024 – 2025\n\n\n\n\nMonash University – Melbourne, Australia\n\n\n\n\nGrade: (3.8/4.0 CGPA)\n\n\n\n\n\n\nBachelor of Business and Commerce\n\n\n2020 – 2023\n\n\n\n\nMajor: Business Analytics\n\n\n\n\nMonash University – Kuala Lumpur, Malaysia\n\n\n\n\nGrade: (3.2/4.0 CGPA)"
+  },
+  {
+    "objectID": "cv/index.html#education",
+    "href": "cv/index.html#education",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Master of Business Analytics\n\n\n2024 – 2025\n\n\n\n\nMonash University – Melbourne, Australia\n\n\n\n\nGrade: (3.8/4.0 CGPA)\n\n\n\n\n\n\nBachelor of Business and Commerce\n\n\n2020 – 2023\n\n\n\n\nMajor: Business Analytics\n\n\n\n\nMonash University – Kuala Lumpur, Malaysia\n\n\n\n\nGrade: (3.2/4.0 CGPA)"
+  },
+  {
+    "objectID": "cv/index.html#skills",
+    "href": "cv/index.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\n\n\n\nSoftware\n\n\n\n\nRStudio, Git, Tableau, Power BI, Oracle Data Modeler, MongoDB, SAS EM, Canva,\n\n\n\n\nLanguages\n\n\n\n\nR, HTML, css, SQL\n\n\n\n\nCloud\n\n\n\n\nAWS"
+  },
+  {
+    "objectID": "cv/index.html#projects",
+    "href": "cv/index.html#projects",
+    "title": "Curriculum Vitae",
+    "section": "Projects",
+    "text": "Projects\n\n\n\nData Visualization Dashboard Using Rshiny\n\n\nJune 2024\n\n\n\n\nProduced a data visualization project to outline key migration statistics impacting Australia’s labour force, wholly implemented the dashboard using Rshiny.\nExtensive data cleaning and wrangling performed through tidyverse and relevant packages. Utilized leaflet and geosphere package for geographical mapping and coordinate handling.\n\n\n\n\nSAS EM Data Mining, Clustering, and Segmentation\n\n\nFebruary 2023\n\n\n\n\nUtilizing the necessary data curation skills to produce, examine, and execute a rational research question.\nUsing SAS Enterprise Miner to generate clustering and segmentation profiles and based on the client’s requests regarding result insights\nAssessments were conducted using Logistic Regression Models, Neural Network Models, Decision Tree Models, and Ensemble Models.\n\n\n\n\nForecasting and Machine Learning Using R\n\n\nNovember 2023\n\n\n\n\nPerforming forecasting, time series regression, decomposition, and machine learning techniques to determine post-Covid profitability of air travel in the United States.\nVarious simple forecasting methods, ETS models, and ARIMA models were utilized to suit both stationary and non-stationary data segments.\nForecasting and machine learning was performed using R-Studio, whilst data visualization and further analysis was performed using Tableau.\n\n\n\n\nOptimization in MS Excel\n\n\nMarch 2022\n\n\n\n\nUsing solver within MS Excel to solve a client’s problem using Linear Programming to evaluate data sensitivity with the Simplex Method. Utilizing Primal/Dual Models to supplement Transportation-based obstacles.\nUtilizing and selecting the best-of-rest method from Greedy, Northwest, and Vogel’s Approximation Method (VAM).\nThe mentioned methods were used in order to determine whether the maximization of material production was necessary and cost-efficient."
+  },
+  {
+    "objectID": "cv/index.html#experience",
+    "href": "cv/index.html#experience",
+    "title": "Curriculum Vitae",
+    "section": "Experience",
+    "text": "Experience\n\n\n\nTeam Member\n\n\n\n\nGlenny Kebabs – Glen Waverley, 3150, VIC, Australia\n\n\nAugust 2024 – Present\n\n\n\n\nAssisted with kitchen operations, including packaging and delivering orders efficiently to meet customer demands.\nProvided exceptional customer service by taking orders, addressing complaints, and ensuring a positive dining experience.\nManaged inventory levels and reported to the supervisor for replenishment, ensuring smooth kitchen operations.\n\n\n\n\nOperations Lead\n\n\n\n\nMonash University Student Association – Kuala Lumpur, Malaysia\n\n\nNovember 2020 – June 2021\n\n\n\n\nTake leadership in logistics handling of upcoming events whilst working closely with the Treasurer and President of the faculty to discuss budgets and other necessary details.\nConducting analysis between participation rates and event outcomes to utilize budgets and tactics efficiently to maximize output.\nInitiating event plans, executing, and leadership to ensure high-participation rates between host and attendee."
+  },
+  {
+    "objectID": "cv/index.html#download",
+    "href": "cv/index.html#download",
+    "title": "Curriculum Vitae",
+    "section": "Download",
+    "text": "Download\nDownload my CV"
   }
 ]
