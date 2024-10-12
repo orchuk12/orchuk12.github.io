@@ -14,7 +14,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: cv/cv.qmd
+      - href: cv/index.qmd
         text: CV
     right:
         - icon: linkedin
