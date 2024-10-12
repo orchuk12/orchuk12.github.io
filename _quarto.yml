@@ -16,8 +16,6 @@ website:
         text: Home
       - href: cv/cv.qmd
         text: CV
-      - href: projects/projects.qmd
-        text: Projects
     right:
         - icon: linkedin
           href: https://www.linkedin.com/in/rayyan-shekhani/
