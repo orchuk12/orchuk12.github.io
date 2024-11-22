@@ -113,6 +113,30 @@ css: ../styles.css
 
 <table style="width:100%;">
   <tr>
+    <td style="text-align:left;">**Online Personal Shopperr**</td>
+  </tr>
+  <tr>
+    <td style="text-align:left;">Woolworths Supermarket -- Hawthorn East, 3123, VIC, Australia</td>
+    <td style="text-align:right;">November 2024 -- Present</td>
+  </tr>
+</table>
+
+<table style="width:100%;">
+  <tr>
+    <td style="text-align:left;">**Front End Assistant**</td>
+  </tr>
+  <tr>
+    <td style="text-align:left;">Costco Wholesale -- Moorabbin, 3194, VIC, Australia</td>
+    <td style="text-align:right;">November 2024 -- Present</td>
+  </tr>
+</table>
+
+- Operate checkouts and verify customer memberships to ensure smooth transactions.
+- Assist customers with inquiries and provide guidance around the store.
+- Collect and organize trolleys to maintain a safe and efficient shopping environment.
+
+<table style="width:100%;">
+  <tr>
     <td style="text-align:left;">**Team Member**</td>
   </tr>
   <tr>
@@ -141,9 +165,4 @@ css: ../styles.css
 - Take leadership in logistics handling of upcoming events whilst working closely with the Treasurer and President of the faculty to discuss budgets and other necessary details.
 - Conducting analysis between participation rates and event outcomes to utilize budgets and tactics efficiently to maximize output.
 - Initiating event plans, executing, and leadership to ensure high-participation rates between host and attendee. 
-
-## Download
-
-[Download my CV](rayyan-resume.pdf){target="_blank"}
-
 
