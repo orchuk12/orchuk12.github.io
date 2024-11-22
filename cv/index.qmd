@@ -121,6 +121,10 @@ css: ../styles.css
   </tr>
 </table>
 
+- Systematically prepare and fulfill online orders to ensure an excellent customer shopping experience.
+- Assist with in-store customer service, addressing inquiries and providing support.
+- Contribute to restocking and stocktaking to maintain efficient inventory management.
+
 <table style="width:100%;">
   <tr>
     <td style="text-align:left;">**Front End Assistant**</td>
