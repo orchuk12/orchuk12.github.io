@@ -46,7 +46,7 @@ css: ../styles.css
   </tr>
   <tr>
     <td style="text-align:left;">RStudio, Git, Tableau, Power BI, Oracle Data Modeler, MongoDB, 
-    SAS EM, Canva, </td>
+    SAS EM, Canva</td>
   </tr>
 
   <tr>
