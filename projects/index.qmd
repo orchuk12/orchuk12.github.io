@@ -3,5 +3,10 @@ title: "Projects"
 description: Here are the projects where I showcase my skills and abilities in the various softwares and platforms I'm proficient in.
 listing:
   contents: .
+  type: default
+  categories: unnumbered
+  sort-ui: [date, title]
+  filter-ui: [date,title,categories]
+page-layout: full
 ---
 
