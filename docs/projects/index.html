@@ -80,9 +80,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-date","listing-title","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -185,14 +185,14 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-unnumbered"><div class="category" data-category="CSS">CSS</div><div class="category" data-category="HTML">HTML</div><div class="category" data-category="R">R</div></div></div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -206,7 +206,7 @@ window.Quarto = {
 </div>
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -223,11 +223,33 @@ window.Quarto = {
 
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-date-sort" data-direction="asc">
+          Date - Oldest
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Date - Newest
+        </option>
+         <option value="listing-title" data-direction="asc">
+          Title
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1733716368099" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<div class="quarto-post image-right" data-index="0" data-categories="R,HTML,CSS" data-listing-date-sort="1733662800000" data-listing-file-modified-sort="1733720498764" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="26">
 <div class="thumbnail">
 <p><a href="../projects/rshiny-dashboard/index.html" class="no-external"></a></p><a href="../projects/rshiny-dashboard/index.html" class="no-external">
-<p><img src="../projects/rshiny-dashboard/images/dashboard.png" class="thumbnail-image"></p>
+<p class="card-img-top"><img src="..\images\dashboard.png"  class="thumbnail-image card-img"/></p>
 </a><p><a href="../projects/rshiny-dashboard/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
@@ -237,12 +259,26 @@ window.Quarto = {
 <div class="listing-subtitle">
 <a href="../projects/rshiny-dashboard/index.html" class="no-external"></a>
 </div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
+R
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('HTML'); return false;">
+HTML
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('CSS'); return false;">
+CSS
+</div>
+</div>
 <div class="listing-description">
 <a href="../projects/rshiny-dashboard/index.html" class="no-external">The purpose of this dashboard is to visualize and demonstrate the impact of different migration types on the labor force. </a>
 </div>
 </div>
 <div class="metadata">
-<p><a href="../projects/rshiny-dashboard/index.html" class="no-external"></a></p><a href="../projects/rshiny-dashboard/index.html" class="no-external">
+<a href="../projects/rshiny-dashboard/index.html" class="no-external">
+<div class="listing-date">
+Dec 9, 2024
+</div>
 </a>
 </div>
 </div>
