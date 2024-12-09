@@ -1,5 +1,7 @@
 ---
 title: "Projects"
+description: Here are the projects where I showcase my skills and abilities in the various softwares and platforms I'm proficient in.
+listing:
+  contents: .
 ---
 
-My projects and the respective links to their repositories will be inserted here. 
