@@ -2,8 +2,24 @@
 title: "RShiny Dashboard - Australian Labour Force"
 description: |
   The purpose of this dashboard is to visualize and demonstrate the impact of different migration types    on the labor force.
+date: "2024-12-09"
+categories: [R, HTML, CSS]
 css: styles.css
+format:
+  html: 
+    toc: true
 ---
+
+```{r}
+#| echo: false
+#| message: false
+#| messages: false
+
+library(knitr)
+
+```
+
+<br> 
 
 <div class="github-box">
   [<i class='bi bi-github'></i>](https://github.com/orchuk12/rshiny-dashboard) [Github](https://github.com/orchuk12/rshiny-dashboard)
@@ -12,3 +28,5 @@ css: styles.css
 <br>
 
 You can access the dashboard by clicking the link [here](https://rayyanshekhani.shinyapps.io/fit5147_dvp/)
+
+<img src="../../images/dashboard.png" class="dashboard-image" />
