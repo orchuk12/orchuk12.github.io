@@ -113,7 +113,7 @@ css: ../styles.css
 
 <table style="width:100%;">
   <tr>
-    <td style="text-align:left;">**Online Personal Shopperr**</td>
+    <td style="text-align:left;">**Online Personal Shopper**</td>
   </tr>
   <tr>
     <td style="text-align:left;">Woolworths Supermarket -- Hawthorn East, 3123, VIC, Australia</td>

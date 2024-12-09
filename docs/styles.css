@@ -15,3 +15,11 @@
   text-align: right !important;
   white-space: nowrap; /* Prevent wrapping */
 }
+
+.github-box {
+  border: 1px solid #343A40 ;
+  padding: 7px;
+  display: inline-block;
+  text-align: left;
+  border-radius: 10px;
+}
