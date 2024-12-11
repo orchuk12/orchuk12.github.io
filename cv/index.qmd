@@ -46,14 +46,14 @@ css: ../styles.css
   </tr>
   <tr>
     <td style="text-align:left;">RStudio, Git, Tableau, Power BI, Oracle Data Modeler, MongoDB, 
-    SAS EM, Canva</td>
+    SAS EM</td>
   </tr>
 
   <tr>
     <td style="text-align:left;">**Languages**</td>
   </tr>
   <tr>
-    <td style="text-align:left;">R, HTML, css, SQL</td>
+    <td style="text-align:left;">R, HTML, css, SQL, NoSQL</td>
   </tr>
   
   <tr>
@@ -68,8 +68,7 @@ css: ../styles.css
 
 <table style="width:100%;">
   <tr>
-    <td style="text-align:left;">**Data Visualization Dashboard Using Rshiny**</td>
-    <td style="text-align:right;">June 2024</td>
+    <td style="text-align:left;">**Australian Labor Force Dashboard Using Rshiny**</td>
   </tr>
 </table>
 
@@ -78,36 +77,23 @@ css: ../styles.css
 
 <table style="width:100%;">
   <tr>
-    <td style="text-align:left;">**SAS EM Data Mining, Clustering, and Segmentation**</td>
-    <td style="text-align:right;">February 2023</td>
+    <td style="text-align:left;">**Database Architecture Implementation With SQL and NoSQL**</td>
   </tr>
 </table>
 
-- Utilizing the necessary data curation skills to produce, examine, and execute a rational research question.
-- Using SAS Enterprise Miner to generate clustering and segmentation profiles and based on the client’s requests regarding result insights
-- Assessments were conducted using Logistic Regression Models, Neural Network Models, Decision Tree Models, and Ensemble Models.
+- Designed and implemented a comprehensive database, created a relational database structure with interconnected tables, incorporating constraints, and optimized schema design to ensure data integrity.
+- Executed advanced SQL queries to perform joins, aggregations, and filtering, to extract meaningful insights and showcase the database's utility in real-world scenarios.
+- Integrated NoSQL and JSON for versatility to demonstrated proficiency in hybrid database systems for specific data operations, illustrating adaptability to diverse data storage and querying requirements.
 
 <table style="width:100%;">
   <tr>
-    <td style="text-align:left;">**Forecasting and Machine Learning Using R**</td>
-    <td style="text-align:right;">November 2023</td>
+    <td style="text-align:left;">**Forecasting and Machine Learning**</td>
   </tr>
 </table>
 
 - Performing forecasting, time series regression, decomposition, and machine learning techniques to determine post-Covid profitability of air travel in the United States.
 - Various simple forecasting methods, ETS models, and ARIMA models were utilized to suit both stationary and non-stationary data segments.
 - Forecasting and machine learning was performed using R-Studio, whilst data visualization and further analysis was performed using Tableau.
-
-<table style="width:100%;">
-  <tr>
-    <td style="text-align:left;">**Optimization in MS Excel**</td>
-    <td style="text-align:right;">March 2022</td>
-  </tr>
-</table>
-
-- Using solver within MS Excel to solve a client’s problem using Linear Programming to evaluate data sensitivity with the Simplex Method. Utilizing Primal/Dual Models to supplement Transportation-based obstacles.
-- Utilizing and selecting the best-of-rest method from Greedy, Northwest, and Vogel’s Approximation Method (VAM).
-- The mentioned methods were used in order to determine whether the maximization of material production was necessary and cost-efficient.
 
 ## Experience
 
