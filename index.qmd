@@ -46,7 +46,7 @@ tibble::tribble(
   ~icon, ~text,
   "<i class='bi bi-github'></i>", "[Rayyan Aamir](https://github.com/orchuk12)",
   "<i class='bi bi-envelope'></i>", "[rayyan.js.aamir@gmail.com](mailto:rayyan.js.aamir@gmail.com)",
-  "<i class='bi bi-telephone-fill'></i>", "+61 449 094 028") %>%
+  "<i class='bi bi-linkedin'></i>", "[Rayyan Aamir Shekhani](https://www.linkedin.com/in/rayyan-shekhani/)") %>%
   gt() %>%
   fmt_markdown() %>%
   tab_options(column_labels.hidden = TRUE) %>%
