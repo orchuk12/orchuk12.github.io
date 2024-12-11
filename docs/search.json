@@ -123,7 +123,7 @@
     "href": "index.html#contact",
     "title": "Rayyan Aamir Shekhani",
     "section": "Contact",
-    "text": "Contact\n\n\n\n\n\n\n\n\n\n\n\n\n\nRayyan Aamir\n\n\n\nrayyan.js.aamir@gmail.com\n\n\n\n+61 449 094 028"
+    "text": "Contact\n\n\n\n\n\n\n\n\n\n\n\n\n\nRayyan Aamir\n\n\n\nrayyan.js.aamir@gmail.com\n\n\n\nRayyan Aamir Shekhani"
   },
   {
     "objectID": "projects/index.html",
@@ -151,14 +151,14 @@
     "href": "cv/index.html#skills",
     "title": "Curriculum Vitae",
     "section": "Skills",
-    "text": "Skills\n\n\n\nSoftware\n\n\n\n\nRStudio, Git, Tableau, Power BI, Oracle Data Modeler, MongoDB, SAS EM, Canva\n\n\n\n\nLanguages\n\n\n\n\nR, HTML, css, SQL\n\n\n\n\nCloud\n\n\n\n\nAWS"
+    "text": "Skills\n\n\n\nSoftware\n\n\n\n\nRStudio, Git, Tableau, Power BI, Oracle Data Modeler, MongoDB, SAS EM\n\n\n\n\nLanguages\n\n\n\n\nR, HTML, css, SQL, NoSQL\n\n\n\n\nCloud\n\n\n\n\nAWS"
   },
   {
     "objectID": "cv/index.html#projects",
     "href": "cv/index.html#projects",
     "title": "Curriculum Vitae",
     "section": "Projects",
-    "text": "Projects\n\n\n\nData Visualization Dashboard Using Rshiny\n\n\nJune 2024\n\n\n\n\nProduced a data visualization project to outline key migration statistics impacting Australia’s labour force, wholly implemented the dashboard using Rshiny.\nExtensive data cleaning and wrangling performed through tidyverse and relevant packages. Utilized leaflet and geosphere package for geographical mapping and coordinate handling.\n\n\n\n\nSAS EM Data Mining, Clustering, and Segmentation\n\n\nFebruary 2023\n\n\n\n\nUtilizing the necessary data curation skills to produce, examine, and execute a rational research question.\nUsing SAS Enterprise Miner to generate clustering and segmentation profiles and based on the client’s requests regarding result insights\nAssessments were conducted using Logistic Regression Models, Neural Network Models, Decision Tree Models, and Ensemble Models.\n\n\n\n\nForecasting and Machine Learning Using R\n\n\nNovember 2023\n\n\n\n\nPerforming forecasting, time series regression, decomposition, and machine learning techniques to determine post-Covid profitability of air travel in the United States.\nVarious simple forecasting methods, ETS models, and ARIMA models were utilized to suit both stationary and non-stationary data segments.\nForecasting and machine learning was performed using R-Studio, whilst data visualization and further analysis was performed using Tableau.\n\n\n\n\nOptimization in MS Excel\n\n\nMarch 2022\n\n\n\n\nUsing solver within MS Excel to solve a client’s problem using Linear Programming to evaluate data sensitivity with the Simplex Method. Utilizing Primal/Dual Models to supplement Transportation-based obstacles.\nUtilizing and selecting the best-of-rest method from Greedy, Northwest, and Vogel’s Approximation Method (VAM).\nThe mentioned methods were used in order to determine whether the maximization of material production was necessary and cost-efficient."
+    "text": "Projects\n\n\n\nAustralian Labor Force Dashboard Using Rshiny\n\n\n\n\nProduced a data visualization project to outline key migration statistics impacting Australia’s labour force, wholly implemented the dashboard using Rshiny.\nExtensive data cleaning and wrangling performed through tidyverse and relevant packages. Utilized leaflet and geosphere package for geographical mapping and coordinate handling.\n\n\n\n\nDatabase Architecture Implementation With SQL and NoSQL\n\n\n\n\nDesigned and implemented a comprehensive database, created a relational database structure with interconnected tables, incorporating constraints, and optimized schema design to ensure data integrity.\nExecuted advanced SQL queries to perform joins, aggregations, and filtering, to extract meaningful insights and showcase the database’s utility in real-world scenarios.\nIntegrated NoSQL and JSON for versatility to demonstrated proficiency in hybrid database systems for specific data operations, illustrating adaptability to diverse data storage and querying requirements.\n\n\n\n\nForecasting and Machine Learning\n\n\n\n\nPerforming forecasting, time series regression, decomposition, and machine learning techniques to determine post-Covid profitability of air travel in the United States.\nVarious simple forecasting methods, ETS models, and ARIMA models were utilized to suit both stationary and non-stationary data segments.\nForecasting and machine learning was performed using R-Studio, whilst data visualization and further analysis was performed using Tableau."
   },
   {
     "objectID": "cv/index.html#experience",
