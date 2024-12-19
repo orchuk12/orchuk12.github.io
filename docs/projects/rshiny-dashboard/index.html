@@ -9,7 +9,7 @@
 <meta name="dcterms.date" content="2024-12-09">
 <meta name="description" content="The purpose of this dashboard is to visualize and demonstrate the impact of different migration types on the labor force.">
 
-<title>Rayyan Aamir Shekhani - RShiny Dashboard - Australian Labour Force</title>
+<title>Rayyan Aamir Shekhani - RShiny Dashboard - Australian Labor Force</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -131,14 +131,22 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#what-is-this-dashboard" id="toc-what-is-this-dashboard" class="nav-link active" data-scroll-target="#what-is-this-dashboard">What is this dashboard?</a></li>
+  <li><a href="#why-create-this-dashboard" id="toc-why-create-this-dashboard" class="nav-link" data-scroll-target="#why-create-this-dashboard">Why create this dashboard?</a></li>
+  <li><a href="#how-was-it-created-and-what-are-the-sources" id="toc-how-was-it-created-and-what-are-the-sources" class="nav-link" data-scroll-target="#how-was-it-created-and-what-are-the-sources">How was it created and what are the sources?</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">RShiny Dashboard - Australian Labour Force</h1>
+<h1 class="title">RShiny Dashboard - Australian Labor Force</h1>
   <div class="quarto-categories">
     <div class="quarto-category">R</div>
     <div class="quarto-category">HTML</div>
@@ -178,8 +186,39 @@ ul.task-list li input[type="checkbox"] {
 <p><br></p>
 <p>You can access the dashboard by clicking the link <a href="https://rayyanshekhani.shinyapps.io/fit5147_dvp/">here</a></p>
 <p><img src="../../images/dashboard.png" class="dashboard-image"></p>
+<section id="what-is-this-dashboard" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-this-dashboard">What is this dashboard?</h2>
+<p>This project is a dynamic dashboard that I developed using the R programming language, with key contributions from various R packages, primarily RShiny. The goal of this project is to provide an insightful exploration of the overall condition of Australia’s labor force and the factors that influence it. Rather than attributing the state of the labor market solely to a single aspect, such as migration, this dashboard aims to provide a broader and more nuanced understanding of the diverse factors at play.</p>
+<p>One of the central themes explored is migration, analyzing the different types and their impact on population distribution across Australia’s states. This serves as a foundation to compare migration trends with other key influences on the labor market, including education levels, gender, employment types (full-time versus part-time), and labor force participation rates.</p>
+<p>These factors are critical contributors to labor market dynamics and, in some cases, unemployment. For example, gender historically plays a significant role, as women have often been more likely to take on homemaking responsibilities. Employment type is another important dimension, with part-time and full-time roles differing in their economic impact—an aspect further analyzed using regression models. Participation rates indicate whether the labor market is expanding or contracting, while education levels correlate with income potential and opportunities.</p>
+<p>This dashboard brings these complex relationships to life through visualization, enabling users to better understand and engage with the factors shaping Australia’s labor force.</p>
+</section>
+<section id="why-create-this-dashboard" class="level2">
+<h2 class="anchored" data-anchor-id="why-create-this-dashboard">Why create this dashboard?</h2>
+<p>The motivation behind creating this dashboard stems from a desire to provide a comprehensive, data driven analysis of the labor force dynamics within Australia. Understanding the labor market is essential for policymakers, businesses, and individuals alike to make informed decisions. This dashboard was developed to bridge the gap between complex datasets and meaningful insights by presenting key factors in an accessible and interactive way.</p>
+<p>The aim is to shed light on the multifaceted nature of labor force trends, particularly the interplay of migration, education, gender, employment types, and participation rates. Each of these components plays a critical role in shaping the economy, and this dashboard helps unravel their contributions to issues such as unemployment and labor market fluctuations.</p>
+<p>By creating this tool, I wanted to not only enhance my own skills in R and data visualization but also contribute a resource that encourages deeper exploration and discussion of Australia’s labor force. This dashboard serves as a step towards identifying patterns, understanding the driving forces behind market trends, and inspiring actionable solutions to complex socioeconomic challenges.</p>
+</section>
+<section id="how-was-it-created-and-what-are-the-sources" class="level2">
+<h2 class="anchored" data-anchor-id="how-was-it-created-and-what-are-the-sources">How was it created and what are the sources?</h2>
+<p>This dashboard was created using the R programming language and a range of powerful libraries to enable dynamic visualizations and interactivity. Key libraries include:</p>
+<ul>
+<li><p>htmlwidgets and highcharter: These were used to incorporate rich HTML visualizations, such as the Sankey diagrams, which effectively depict flows and relationships in the data.</p></li>
+<li><p>leaflet: This library was instrumental in creating interactive maps, allowing users to explore geographic data and trends across different regions of Australia.</p></li>
+<li><p>Other R packages: Additional libraries were employed for data manipulation, analysis, and enhanced interactivity, ensuring a seamless and engaging user experience.</p></li>
+</ul>
+<p>The data for this project was sourced from the <strong>Australian Bureau of Statistics (ABS)</strong>. Extensive effort was put into collecting, cleaning, and wrangling the datasets to make them ready for analysis and visualization. By leveraging these sources and tools, this dashboard provides a comprehensive and interactive platform for exploring Australia’s labor force dynamics.</p>
+<section id="key-sources" class="level4">
+<h4 class="anchored" data-anchor-id="key-sources">Key Sources</h4>
+<ol type="1">
+<li><p>National, State and Territory Population - <a href="https://www.abs.gov.au/statistics/people/population/national-state-and-territory-population/jun-2023#key-statistics">https://www.abs.gov.au/statistics/people/population/national-state-and-territory-population/jun-2023#key-statistics</a></p></li>
+<li><p>Labor Force, Australia - <a href="https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/jan-2024#key-statistics">https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/jan-2024#key-statistics</a></p></li>
+<li><p>Employee Earnings - <a href="https://www.abs.gov.au/statistics/labour/earnings-and-working-conditions/employee-earnings/aug-2023#methodology">https://www.abs.gov.au/statistics/labour/earnings-and-working-conditions/employee-earnings/aug-2023#methodology</a></p></li>
+</ol>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
